@@ -4,7 +4,7 @@ NFC Card Reader - это приложение на платформе Flutter, �
 
   <br/>
 <p align="center">
-  <img src="screenshots/ic_launcher.jpeg" width="300"  />
+  <img src="screenshots/ic_launcher.jpeg" width="300" height="1024"  />
   <img src="screenshots/01.jpg" width="300" /> 
   <br/>
   <img src="screenshots/02.jpg" width="300" />	
@@ -23,6 +23,9 @@ NFC Card Reader - это приложение на платформе Flutter, �
 - sqflite: **^2.3.0**
 - flutter_slidable: **^3.0.1**
 - shared_preferences: **^2.2.2**
+- json_annotation: **^4.8.1**
+- json_serializable: **^6.7.1**
+- build_runner: **^2.3.3**
 - nfc_manager:
     git:
       url: https://github.com/WolverRu/nfc_manager.git
