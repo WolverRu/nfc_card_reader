@@ -2,6 +2,10 @@
 
 NFC Card Reader - это приложение на платформе Flutter, позволяющее легко и безопасно считывать информацию с кредитных и дебетовых банковских карт с использованием технологии NFC.
 
+<br/>
+
+### To try the app download the apk from the [Release Tab](https://github.com/WolverRu/nfc_card_reader/releases/download/1.0.0/app-release.apk)
+
   <br/>
 <p align="center">
   <img src="screenshots/ic_launcher.jpeg" width="300" />
