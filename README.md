@@ -4,7 +4,7 @@ NFC Card Reader - это приложение на платформе Flutter, �
 
 <br/>
 
-### To try the app download the apk from the [Release Tab](https://github.com/WolverRu/nfc_card_reader/releases/download/1.0.0/app-release.apk)
+### Чтобы протестировать приложение, скачайте APK с сайта [Release Tab](https://github.com/WolverRu/nfc_card_reader/releases/download/1.0.0/app-release.apk)
 
   <br/>
 <p align="center">
