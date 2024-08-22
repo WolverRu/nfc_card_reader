@@ -4,7 +4,7 @@ NFC Card Reader - это приложение на платформе Flutter, �
 
   <br/>
 <p align="center">
-  <img src="screenshots/ic_launcher.jpeg" width="300" height="642"  />
+  <img src="screenshots/06.jpg" width="300" height="642"  />
   <img src="screenshots/01.jpg" width="300" /> 
   <br/>
   <img src="screenshots/02.jpg" width="300" />	
