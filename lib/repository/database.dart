@@ -2,7 +2,7 @@ import 'package:sqflite/sqflite.dart';
 
 Future<Database> getOrCreateDatabase() {
   return openDatabase(
-    'nfc_data_manager1.db',
+    'nfc_data_manager.db',
     version: 1,
     singleInstance: true,
     onUpgrade: (db, oldVersion, newVersion) async {
